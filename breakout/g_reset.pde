@@ -1,0 +1,3 @@
+void reset() {
+  akey=dkey;
+}
